@@ -3,6 +3,7 @@ I am in the first
 modify
 I fix the bug
 
+insert here
 
 test log
 
