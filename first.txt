@@ -11,3 +11,6 @@ commit need have module name
 test diff for second time 
 
 test git diff 
+
+
+test for diff commit1 and commit2
