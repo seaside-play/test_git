@@ -3,11 +3,11 @@ I am in the first
 modify
 I fix the bug
 
-insert here
 
 test log
 
 commit need have module name
 
+test diff for second time 
 
 test git diff 
