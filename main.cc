@@ -5,6 +5,8 @@ int main(int argc, const char* argv[]) {
   str.assign("World");
 
   str.assign("I love you");
-
+  
+  std::cout << "Hello world！";
+  
   return 1;
 }
